@@ -1,2 +1,2 @@
-# login-mypage-object-oriented
+# ログインページ(PHPオブジェクト指向)
 login-mypageのDB接続の部分などを、PHPオブジェクト指向の考えを用いてDB.phpにまとめたものです。
